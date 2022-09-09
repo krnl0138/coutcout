@@ -1,0 +1,33 @@
+{
+  "countriesList": {
+    "countries": {
+      "0": "argentina",
+      "1": "australia",
+      "2": "austria",
+      "3": "brazil",
+      "4": "canada",
+      "5": "chile",
+      "6": "china",
+      "7": "denmark",
+      "8": "england",
+      "9": "france",
+      "10": "germany",
+      "11": "greece",
+      "12": "india",
+      "13": "ireland",
+      "14": "israel",
+      "15": "italy",
+      "16": "japan",
+      "17": "latvia",
+      "18": "mexico",
+      "19": "poland",
+      "20": "portugal",
+      "21": "russia",
+      "22": "spain",
+      "23": "sweden",
+      "24": "UK",
+      "25": "ukraine",
+      "26": "USA"
+    }
+  }
+}

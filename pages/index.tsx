@@ -1,15 +1,16 @@
-import { Layout } from "../components/Layout";
-import { BenefitsSection } from "../features/benefitsSection/BenefitsSection";
-import { HeroSection } from "../features/heroSection/HeroSection";
-import { SignUpSection } from "../features/signUpSection/SignUpSection";
+import { BenefitsSection } from "../ui/features/landingScreen/benefitsSection/BenefitsSection";
+import { ExampleSection } from "../ui/features/landingScreen/exampleSection/ExampleSection";
+import { HeroSection } from "../ui/features/landingScreen/heroSection/HeroSection";
+import { SignUpSection } from "../ui/features/landingScreen/signUpSection/SignUpSection";
 
 const Home = () => {
   return (
-    <Layout>
+    <>
       <HeroSection />
       <BenefitsSection />
+      <ExampleSection />
       <SignUpSection />
-    </Layout>
+    </>
   );
 };
 

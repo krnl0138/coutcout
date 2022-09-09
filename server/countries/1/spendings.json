@@ -1,0 +1,40 @@
+{
+  "compareCategories": {
+    "0": { "spendings": 950 },
+    "1": { "spendings": 1527 },
+    "2": { "spendings": 884 },
+    "3": { "spendings": 819 },
+    "4": { "spendings": 598 },
+    "5": { "spendings": 554 },
+    "6": { "spendings": 323 },
+    "7": { "spendings": 574 },
+    "8": { "spendings": 805 },
+    "9": { "spendings": 404 }
+  },
+  "compareSubcategories": {
+    "0": { "spendings": 387 },
+    "1": { "spendings": 432 },
+    "2": { "spendings": 131 },
+    "3": { "spendings": 239 },
+    "4": { "spendings": 327 },
+    "5": { "spendings": 429 },
+    "6": { "spendings": 532 },
+    "7": { "spendings": 494 },
+    "8": { "spendings": 390 },
+    "9": { "spendings": 224 },
+    "10": { "spendings": 217 },
+    "11": { "spendings": 378 },
+    "12": { "spendings": 288 },
+    "13": { "spendings": 66 },
+    "14": { "spendings": 244 },
+    "15": { "spendings": 123 },
+    "16": { "spendings": 323 },
+    "17": { "spendings": 9 },
+    "18": { "spendings": 238 },
+    "19": { "spendings": 299 },
+    "20": { "spendings": 16 },
+    "21": { "spendings": 252 },
+    "22": { "spendings": 119 },
+    "23": { "spendings": 285 }
+  }
+}

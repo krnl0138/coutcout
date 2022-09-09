@@ -15,6 +15,12 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "tests/index.test.js"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "utils/functions.test.js",
+    "pages/__tests__/compare.test.jsx"
+  ],
   "exclude": ["node_modules"]
 }
