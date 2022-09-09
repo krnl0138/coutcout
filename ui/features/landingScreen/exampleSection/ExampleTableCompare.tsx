@@ -130,8 +130,8 @@ export const ExampleTableCompare = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Brazil@2x.svg"
-                alt="Brazil flag"
+                src="/flags_flat/SVG/brazil@2x.svg"
+                alt="brazil flag"
                 width="100%"
                 height="100%"
                 layout="responsive"
@@ -175,7 +175,7 @@ export const ExampleTableCompare = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Brazil@2x.svg"
+                src="/flags_flat/SVG/brazil@2x.svg"
                 alt="Braziln flag"
                 width="100%"
                 height="100%"
@@ -194,7 +194,7 @@ export const ExampleTableCompare = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Brazil@2x.svg"
+                src="/flags_flat/SVG/brazil@2x.svg"
                 alt="Braziln flag"
                 width="100%"
                 height="100%"

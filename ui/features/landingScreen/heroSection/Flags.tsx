@@ -67,13 +67,13 @@ export const Flags = () => {
   return (
     <FlagsContainer>
       <FlagWrapper variant="primary">
-        <FlagImage country="Italy" />
+        <FlagImage country="italy" />
       </FlagWrapper>
       <FlagWrapper variant="secondary">
-        <FlagImage country="Germany" />
+        <FlagImage country="germany" />
       </FlagWrapper>
       <FlagWrapper variant="tertiary">
-        <FlagImage country="Israel" />
+        <FlagImage country="israel" />
       </FlagWrapper>
     </FlagsContainer>
   );

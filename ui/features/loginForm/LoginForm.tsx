@@ -50,7 +50,7 @@ export const LoginForm = () => {
       loginFormValidator.parse(data);
       await dispatch(userLogin(data));
       dispatchLogin({ type: "success" });
-      router.push(URLS.about);
+      router.push(URLS.compare);
     } catch (err) {
       console.error(err);
       dispatchLogin({ type: "failed", errors: getFormErrorMessages(err) });

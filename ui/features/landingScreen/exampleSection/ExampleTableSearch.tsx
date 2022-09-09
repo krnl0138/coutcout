@@ -128,8 +128,8 @@ export const ExampleTableSearch = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Sweden@2x.svg"
-                alt="Sweden flag"
+                src="/flags_flat/SVG/sweden@2x.svg"
+                alt="sweden flag"
                 width="100%"
                 height="100%"
                 layout="responsive"
@@ -139,8 +139,8 @@ export const ExampleTableSearch = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Brazil@2x.svg"
-                alt="Brazil flag"
+                src="/flags_flat/SVG/brazil@2x.svg"
+                alt="brazil flag"
                 width="100%"
                 height="100%"
                 layout="responsive"
@@ -175,7 +175,7 @@ export const ExampleTableSearch = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Sweden@2x.svg"
+                src="/flags_flat/SVG/sweden@2x.svg"
                 alt="Swedenn flag"
                 width="100%"
                 height="100%"
@@ -186,7 +186,7 @@ export const ExampleTableSearch = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Brazil@2x.svg"
+                src="/flags_flat/SVG/brazil@2x.svg"
                 alt="Braziln flag"
                 width="100%"
                 height="100%"
@@ -212,7 +212,7 @@ export const ExampleTableSearch = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Sweden@2x.svg"
+                src="/flags_flat/SVG/sweden@2x.svg"
                 alt="Swedenn flag"
                 width="100%"
                 height="100%"
@@ -223,7 +223,7 @@ export const ExampleTableSearch = () => {
           <TableCategory>
             <TableFlagContainer>
               <Image
-                src="/flags_flat/SVG/Brazil@2x.svg"
+                src="/flags_flat/SVG/brazil@2x.svg"
                 alt="Braziln flag"
                 width="100%"
                 height="100%"

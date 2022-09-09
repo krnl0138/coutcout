@@ -12,6 +12,7 @@ const CountryFlagContainer = styled.div`
 `;
 
 export const FlagImage = ({ countryName }: { countryName: string }) => {
+  console.log(countryName);
   return (
     <CountryFlagContainer>
       <Image
