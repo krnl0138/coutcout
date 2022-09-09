@@ -1,14 +1,13 @@
 import { rest } from "msw";
 import { SERVER_URL } from "../../utils/constants";
 import {
-  TCountriesResponse,
-  TUserResponse,
-  TCountrySpendingsResponse,
   TCategoriesResponse,
+  TCountriesResponse,
+  TCountrySpendingsResponse,
   TUserResponseMock,
 } from "../../utils/types";
 import categories from "../../server/categories.json";
-import countrySpendings from "../../server/countries/austria/spendings.json";
+import countrySpendings from "../../server/countries/1/spendings.json";
 import countriesList from "../../server/countries/countriesList.json";
 import { userUID } from "../../server/user.json";
 

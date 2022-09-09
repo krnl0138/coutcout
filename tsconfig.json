@@ -20,7 +20,7 @@
     "**/*.ts",
     "**/*.tsx",
     "utils/functions.test.js",
-    "pages/__tests__/compare.test.jsx"
+    "__tests__/compare.test.jsx"
   ],
   "exclude": ["node_modules"]
 }
