@@ -1,5 +1,0 @@
-{
-  "hooks": {
-    "pre-commit": "npm run check-types && npm run test && lint-staged && npm run build"
-  }
-}
